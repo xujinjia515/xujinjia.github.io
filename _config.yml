@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinjia Xu  徐锦嘉"
+title                    : "Jinjia Xu (徐锦嘉)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
